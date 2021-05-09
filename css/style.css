@@ -943,7 +943,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 --------------------------------------------------------------*/
 .padd-section {
   padding-bottom: 80px;
-  padding-top: 80px;
+  padding-top: 130px;
 }
 
 @media (max-width: 992px) {
