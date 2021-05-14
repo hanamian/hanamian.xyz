@@ -8,8 +8,9 @@
 # GENERAL
 --------------------------------------------------------------*/
 body {
+  font-family: Georgia,Times,"Times New Roman",serif;
+  color: #313130;
   background-color: #fff;
-  color: #333;
 }
 
 /*--------------------------------------------------------------
